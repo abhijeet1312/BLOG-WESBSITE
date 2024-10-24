@@ -1,8 +1,8 @@
-// import express from "express";
 import { Router } from "express";
 const router = Router();
 import Post from "../model/Post.js";
 import Contact from "../model/contact.js";
+import User from "../model/User.js";
 
 
 
